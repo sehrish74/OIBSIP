@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.header p {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.quote {
+    margin: 40px 0;
+}
+
+.quote p {
+    font-style: italic;
+    font-size: 1.5em;
+    margin: 0 0 20px 0;
+}
+
+.quote img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.biography {
+    background-color: #222;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.biography h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.biography p {
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+.footer {
+    font-size: 0.9em;
+    margin-top: 20px;
+    color: #aaa;
+}
+
+.footer p {
+    margin: 0;
+}
